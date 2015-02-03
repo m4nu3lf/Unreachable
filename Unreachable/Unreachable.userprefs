@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EndLevelMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Scene2_camera2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Text\Credits.txt" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\LookAt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraLogic.cs" Line="135" Column="24" />
+      <File FileName="Assets\Scripts\LastChestLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\B0tLogic.cs" Line="67" Column="37" />
+      <File FileName="Assets\Scripts\GameObjectSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EndLevelMenu.cs" Line="7" Column="28" />
+      <File FileName="Assets\Scripts\ChestLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Autodestroy.cs" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\IconLogic.cs" Line="86" Column="25" />
+      <File FileName="Assets\Scripts\FirstChestLogic.cs" Line="27" Column="4" />
+      <File FileName="Assets\Scripts\CharacterPuppeteer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuaternionHelper.cs" Line="9" Column="10" />
+      <File FileName="Assets\Scripts\InstructionsLogic.cs" Line="60" Column="37" />
+      <File FileName="Assets\Scripts\SecondChestLogic.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

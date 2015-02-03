@@ -1,0 +1,33 @@
+Unreacheable
+Digital Game Development Project
+
+
+Concept/Design/Direction:
+Manuele Finocchiaro
+
+
+Chest model:
+Adriana Chiabrera
+http://www.blendswap.com/user/adriana.chiabrera
+
+
+Spotlight sound:
+reidmangan	
+http://www.freesound.org/people/reidmangan/
+
+
+Thud sound:
+John Rayson
+http://www.freesound.org/people/John%20Rayson/
+
+
+Moon Texture:
+www.allcgtextures.com
+
+			
+Other models/Scripting/Animations
+Manuele Finocchiaro
+
+
+
+Manuele Finocchiaro (c) 2013
